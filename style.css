@@ -1,0 +1,13 @@
+.header{
+    display: flex;
+    justify-content: space-between;
+    background-color: indianred;
+}
+.menu{
+    display: flex;
+    margin: 300;
+}
+.grid{
+    display: flex;
+    justify-content: space-between;
+}
